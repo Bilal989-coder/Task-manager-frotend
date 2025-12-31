@@ -120,23 +120,23 @@ Make sure `.env` exists in frontend root and restart dev server.
 
 - Login screen (mobile + desktop)
 
-![alt text](image.png)
+<img width="563" height="1317" alt="image" src="https://github.com/user-attachments/assets/b0b3ec7b-fd99-4e1a-ade0-d53617a7c996" />
 
-![alt text](image-1.png)
+<img width="563" height="1317" alt="image" src="https://github.com/user-attachments/assets/ba4a452e-2fe2-40d9-bc51-49470b10bac7" />
 
 - Admin dashboard (filters + pagination)
 
-![alt text](image-3.png)
+<img width="1731" height="1630" alt="image" src="https://github.com/user-attachments/assets/db5179e4-ca94-4d16-a76f-6b5960c54fd0" />
 
-![alt text](image-2.png)
+<img width="563" height="4613" alt="image" src="https://github.com/user-attachments/assets/78df02d0-5341-4884-a5bc-0fa02bc86759" />
 
 - Member tasks page
 
-![alt text](image-4.png)
+<img width="1731" height="1159" alt="image" src="https://github.com/user-attachments/assets/5b527ab3-f07f-4218-9e34-3cc7e54a052d" />
 
-![alt text](image-5.png)
+<img width="563" height="3009" alt="image" src="https://github.com/user-attachments/assets/cc012af6-2d90-4a0f-b551-69652ca553f3" />
 
 - Vercel deployment URLs
-https://task-manager-sand-three.vercel.app/login (Frontend)
-https://task-manager-banckend.vercel.app/ (Backend)
+ https://task-manager-sand-three.vercel.app/login (Frontend)
+ https://task-manager-banckend.vercel.app/ (Backend)
 
