@@ -120,7 +120,7 @@ Make sure `.env` exists in frontend root and restart dev server.
 
 - Login screen (mobile + desktop)
 
-<img width="563" height="1317" alt="image" src="https://github.com/user-attachments/assets/b0b3ec7b-fd99-4e1a-ade0-d53617a7c996" />
+<img width="1731" height="800" alt="image" src="https://github.com/user-attachments/assets/25236cca-e9eb-475b-ba7e-9a9e62f2d319" />
 
 <img width="563" height="1317" alt="image" src="https://github.com/user-attachments/assets/ba4a452e-2fe2-40d9-bc51-49470b10bac7" />
 
